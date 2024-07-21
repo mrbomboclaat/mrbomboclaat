@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrbomboclaat
+- 👋 Hi, I’m @Orgito
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
